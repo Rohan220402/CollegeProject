@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Docs / reports
+*.docx
+
+# Unused folders
+utils/
+workflows/
+
+# OS files
+.DS_Store
+Thumbs.db
